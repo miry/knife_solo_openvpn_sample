@@ -1,0 +1,7 @@
+DEPENDENCIES
+  openvpn
+    git: https://github.com/cmur2/chef-openvpn.git
+    revision: 30c777d6eb0adf8073b6c8011ad202d62edeaa85
+
+GRAPH
+  openvpn (3.0.1)
